@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KollegReady.Api/KollegReady.Api.csproj" />
+  <Project Path="KollegReady.Application/KollegReady.Application.csproj" />
+  <Project Path="KollegReady.Domain/KollegReady.Domain.csproj" />
+  <Project Path="KollegReady.Infrastructure/KollegReady.Infrastructure.csproj" />
+</Solution>

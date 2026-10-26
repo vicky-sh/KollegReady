@@ -1,0 +1,6 @@
+@KollegReady.Api_HostAddress = http://localhost:5149
+
+GET {{KollegReady.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
